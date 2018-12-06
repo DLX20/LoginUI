@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">fifth_work</string>
+    <string name="bt_login">手机号登录</string>
+    <string name="bt_registered">注册</string>
+    <string name="tv_text">其他方式登录</string>
+</resources>
